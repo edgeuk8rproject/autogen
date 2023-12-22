@@ -1,0 +1,7 @@
+[
+    {
+        "model": "TheBloke_zephyr-7B-beta-GPTQ",
+        "api_base": "https://c942eef5067a7b9db3.gradio.live/v1",
+        "api_key": "NULL"
+    }
+]
