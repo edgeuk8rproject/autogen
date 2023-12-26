@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 # Installation
 
 ## Setup Virtual Environment
@@ -153,6 +154,8 @@ Example notebooks:
 
 [Using MathChat to Solve Math Problems](https://github.com/microsoft/autogen/blob/main/notebook/agentchat_MathChat.ipynb)
 =======
+=======
+>>>>>>> Stashed changes
 # Installation
 
 ## Setup Virtual Environment
@@ -245,4 +248,7 @@ pip install "pyautogen[mathchat]"
 
 Example notebooks:
 [Using MathChat to Solve Math Problems](https://github.com/microsoft/autogen/blob/main/notebook/agentchat_MathChat.ipynb)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

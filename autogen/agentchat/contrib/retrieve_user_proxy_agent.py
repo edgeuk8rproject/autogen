@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 import re
 
 try:
@@ -456,6 +457,8 @@ class RetrieveUserProxyAgent(UserProxyAgent):
                 exitcode = 1
             return exitcode, log, None
 =======
+=======
+>>>>>>> Stashed changes
 import re
 
 try:
@@ -887,4 +890,7 @@ class RetrieveUserProxyAgent(UserProxyAgent):
                 log += f"\n{result.error_in_exec}"
                 exitcode = 1
             return exitcode, log, None
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

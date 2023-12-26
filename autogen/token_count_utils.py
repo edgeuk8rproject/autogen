@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 from typing import List, Union, Dict
 import logging
 import json
@@ -188,6 +189,8 @@ def num_tokens_from_functions(functions, model="gpt-3.5-turbo-0613") -> int:
     num_tokens += 12
     return num_tokens
 =======
+=======
+>>>>>>> Stashed changes
 import tiktoken
 from typing import List, Union, Dict, Tuple
 import logging
@@ -370,4 +373,7 @@ def num_tokens_from_functions(functions, model="gpt-3.5-turbo-0613") -> int:
 
     num_tokens += 12
     return num_tokens
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

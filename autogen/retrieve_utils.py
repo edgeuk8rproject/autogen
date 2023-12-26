@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 from typing import List, Union, Callable
 import os
 import requests
@@ -379,6 +380,8 @@ def query_vector_db(
     )
     return results
 =======
+=======
+>>>>>>> Stashed changes
 from typing import List, Union, Callable
 import os
 import requests
@@ -711,4 +714,7 @@ def query_vector_db(
         where_document={"$contains": search_string} if search_string else None,  # optional filter
     )
     return results
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

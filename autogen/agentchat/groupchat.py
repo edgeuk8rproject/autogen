@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 import logging
 import random
 import re
@@ -421,6 +422,8 @@ class GroupChatManager(ConversableAgent):
             message = self.last_message(speaker)
         return True, None
 =======
+=======
+>>>>>>> Stashed changes
 from dataclasses import dataclass
 import sys
 from typing import Dict, List, Optional, Union
@@ -650,4 +653,7 @@ class GroupChatManager(ConversableAgent):
             await speaker.a_send(reply, self, request_reply=False)
             message = self.last_message(speaker)
         return True, None
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

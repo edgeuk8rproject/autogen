@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 """
 Unit test for retrieve_utils.py
 """
@@ -242,6 +243,8 @@ if __name__ == "__main__":
     if os.path.exists(db_path):
         os.remove(db_path)  # Delete the database file after tests are finished
 =======
+=======
+>>>>>>> Stashed changes
 """
 Unit test for retrieve_utils.py
 """
@@ -427,4 +430,7 @@ if __name__ == "__main__":
     db_path = "/tmp/test_retrieve_utils_chromadb.db"
     if os.path.exists(db_path):
         os.remove(db_path)  # Delete the database file after tests are finished
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 import asyncio
 import copy
 import functools
@@ -1338,6 +1339,8 @@ class ConversableAgent(Agent):
         return self._function_map
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> Stashed changes
 import asyncio
 from collections import defaultdict
 import copy
@@ -2439,6 +2442,7 @@ class ConversableAgent(Agent):
     def function_map(self) -> Dict[str, Callable]:
         """Return the function map."""
         return self._function_map
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
 
@@ -2596,3 +2600,5 @@ class ConversableAgent(Agent):
 
         return _decorator
 >>>>>>> ebd5de9501ae691d604d26dc28d02c0736d7dba1
+=======
+>>>>>>> Stashed changes

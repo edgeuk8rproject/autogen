@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 import os
 
 import setuptools
@@ -64,6 +65,8 @@ setuptools.setup(
     python_requires=">=3.8, <3.12",
 )
 =======
+=======
+>>>>>>> Stashed changes
 import setuptools
 import os
 
@@ -133,4 +136,7 @@ setuptools.setup(
     ],
     python_requires=">=3.8",
 )
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

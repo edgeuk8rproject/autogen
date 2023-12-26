@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 import re
 import os
 from pydantic import BaseModel, Extra, root_validator
@@ -458,6 +459,8 @@ class WolframAlphaAPIWrapper(BaseModel):
         is_success = True
         return f"Assumption: {assumption} \nAnswer: {answer}", is_success
 =======
+=======
+>>>>>>> Stashed changes
 import re
 import os
 from pydantic import BaseModel, Extra, root_validator
@@ -914,4 +917,7 @@ class WolframAlphaAPIWrapper(BaseModel):
             return "No good Wolfram Alpha Result was found", is_success
         is_success = True
         return f"Assumption: {assumption} \nAnswer: {answer}", is_success
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
